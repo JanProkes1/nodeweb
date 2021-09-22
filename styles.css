@@ -1,0 +1,35 @@
+body{
+    background-color:#edddca;
+    margin:0px;
+    padding:0px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    height:60px;
+    background-color:#c8bcbc;
+    box-shadow:2px 2px 12px rgba(0,0,0,0.2);
+    padding:0px 5%;
+}
+
+.social-icons a{
+    width:40px;
+    height:40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#e6e3e3;
+    margin:20px 10px;
+    border-radius:50%;
+}
+.social-icons{
+    display: flex;
+    justify-content: center;
+    color:#000000;
+}
+
+img{
+    padding: 40px 70px;
+}
